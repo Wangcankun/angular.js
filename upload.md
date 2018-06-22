@@ -1,6 +1,5 @@
 ## IPFS文件上传接口文档##
 
-[TOC]
 
 #### 接口说明 **1、**文件上传
 
@@ -23,7 +22,7 @@
 > | 返回参数      |     参数类型 |   参数说明   |
 | :-------- | :--------| :------ |
 | status|   Integer|  200|
-| message|   String|  存储地址|
+| data|   String|  存储地址|
 
 - **返回示例**
 >    
@@ -34,4 +33,3 @@
   "data": "http;//localhost:8080/ipfs/QmNoCkYszwjY9bukSQf8pckCFUabKiJ6j3GEHaGLzMrGKi"
   }
 }
-`\``
