@@ -27,9 +27,7 @@
 - **返回示例**
 >    
 ```java 
-{
   {
   "status": 200,
   "data": "http;//localhost:8080/ipfs/QmNoCkYszwjY9bukSQf8pckCFUabKiJ6j3GEHaGLzMrGKi"
   }
-}
